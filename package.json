@@ -1,0 +1,19 @@
+{
+  "name": "@one-ini/wasm",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-ini/wasm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/one-ini/wasm/issues"
+  },
+  "homepage": "https://github.com/one-ini/wasm#readme"
+}
